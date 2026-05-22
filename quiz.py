@@ -11,8 +11,8 @@ hora_certa = datetime.now(fuso_brasilia).strftime('%d/%m/%Y %H:%M:%S')
 # Configuração visual
 st.set_page_config(page_title="Diagnóstico MAPI - Inteligência Política", page_icon="🧩", layout="centered")
 
-st.title("Seu posicionamento político está preparado para a nova era?")
-st.markdown("### Descubra se sua pré-campanha transmite autoridade e conexão real através dos ODS.")
+st.title("Impacto comprovado conquista votos.")
+st.markdown("### Descubra se o eleitor reconhece sua atuação como promessa política ou liderança de impacto real.")
 st.write("---")
 
 # Conexão com o Google Sheets
